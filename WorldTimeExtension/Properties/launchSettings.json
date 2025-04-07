@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WorldTimeExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "WorldTimeExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
